@@ -2,8 +2,8 @@
 #define NET_HPP
 class net{
 	public:
-			net(){
-
+			net(string url){
+				
 			}
 }
 #endif
